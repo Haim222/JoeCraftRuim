@@ -16,4 +16,4 @@ Compile e rode JoeCraft_part2.java.
 				
 		SAIBA:
 		Na migração do windows10 p LinuxLite o código precisou ser adaptado e muita coisa ficou descalibrada depois disto. O código já não rodava. Precisei adaptar alguma coisa com alguma dificuldade, e sei q não dá p ajustar todo o cod de novo.
-		Os arquivos de sons wav perdidos. Veja "JWav.opMudo=true".
+		Arquivos de sons wav perdidos. Veja "JWav.opMudo=true".
