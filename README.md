@@ -1,4 +1,4 @@
-# JoeCraftRuim
+# JoeCraft
 Espécie de Minecraft caseiro, mas muito precário. Não espere muito.
 
 Tente rodar assim:
